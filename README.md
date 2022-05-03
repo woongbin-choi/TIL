@@ -22,3 +22,4 @@
 ***
 > 참조했던 블로그
 * [TDD 참고했던 블로그](https://mangkyu.tistory.com/182)
+* [@Valid @Validated](https://mangkyu.tistory.com/174?category=761302)
