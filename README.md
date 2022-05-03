@@ -15,4 +15,5 @@
 
 ## 🌏 Etc
 > 각 종 개발 관련 TIL
-> * [TDD 참고했던 블로그](https://mangkyu.tistory.com/182)
+* [TDD 참고했던 블로그](https://mangkyu.tistory.com/182)
+* [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
