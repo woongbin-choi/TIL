@@ -20,6 +20,6 @@
 > 토이 프로젝트, 자격증, 오류 등 각 종 개발 관련 TIL
 * [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
 ***
-> 참조했던 블로그
-* [TDD 참고했던 블로그](https://mangkyu.tistory.com/182)
+> 참고했던 블로그
+* [TDD 프로그래밍](https://mangkyu.tistory.com/182)
 * [@Valid @Validated](https://mangkyu.tistory.com/174?category=761302)
