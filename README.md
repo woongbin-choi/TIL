@@ -1,5 +1,7 @@
 # _📌(TIL) Today I Learned📌_
 
+## 📣 Introduce
+주니어 개발자의 하루하루 공부한 내용을 기록합니다. 본문은 [블로그](https://binco.tistory.com)에 작성되어 있습니다. 
 
 ## 📒 Library
 ***
