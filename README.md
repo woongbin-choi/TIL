@@ -22,6 +22,7 @@
 > 토이 프로젝트, 자격증, 오류 등 각 종 개발 관련 TIL
 * [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
+* [컴활1급 필기 공부](https://binco.tistory.com/entry/%EC%BB%B4%ED%99%9C1%EA%B8%89%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EB%8B%A8%EA%B8%B0%EA%B0%84%EA%B3%B5%EB%B6%80%EB%B2%95-%ED%9B%84%EA%B8%B0)
 ***
 > 참고했던 블로그
 * [TDD 프로그래밍](https://mangkyu.tistory.com/182)
