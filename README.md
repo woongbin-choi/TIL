@@ -6,6 +6,7 @@
 ## ⚡ Language
 > 언어 TIL
 
+
 ## 📲 DataBase
 > DB TIL
 
@@ -15,6 +16,7 @@
 * [Maven VS Gradle](https://binco.tistory.com/entry/Maven-VS-Gradle)
 * [Maven pom](https://binco.tistory.com/entry/Maven-pomxml-%EC%84%A4%EC%A0%95-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0)
 * [JPA란?](https://binco.tistory.com/entry/JPA%EC%A0%95%EC%9D%98-%EC%9E%A5%C2%B7%EB%8B%A8%EC%A0%90)
+* [JPA의 정의와 장·단점](https://binco.tistory.com/entry/JPA%EC%A0%95%EC%9D%98-%EC%9E%A5%C2%B7%EB%8B%A8%EC%A0%90)
 
 ## 📚 Study
 > 사내 스터디 TIL
