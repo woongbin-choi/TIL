@@ -10,6 +10,7 @@
 * [객체지향 프로그래밍(OOP)이란?](https://binco.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-OOP#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Doop%EC%9D%B4%EB%9E%80?)
 * [추상클래스 VS 인터페이스](https://binco.tistory.com/entry/Java-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 * [Java Enum Class](https://binco.tistory.com/entry/Java-Enum-%ED%81%B4%EB%9E%98%EC%8A%A4)
+* [Java MVC 디자인 패턴]([https://binco.tistory.com/entry/Java-Enum-%ED%81%B4%EB%9E%98%EC%8A%A4](https://binco.tistory.com/entry/Java-MVC%ED%8C%A8%ED%84%B4-%EB%B0%94%EB%A1%9C%EC%95%8C%EA%B8%B0))
 
 ## 📲 DataBase
 > DB TIL
