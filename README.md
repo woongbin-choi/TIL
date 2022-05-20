@@ -36,6 +36,9 @@
 * [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
 * [개발 4개월 차 동접자 2만명 프로젝트 맡은 후기](https://binco.tistory.com/entry/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%86%8D%EC%9E%90-2%EB%A7%8C%EB%AA%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%BD%ED%97%98)
 
+## 📘 Book Review
+> 한 해 동안 내 나이만큼 책 읽기
+* [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](업로드 예정)
 
 ## 🎓 Certificate & Review
 > 자격증, 후기 모음
