@@ -4,6 +4,11 @@
 [일식 CEO 출신](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9DCEO%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933) 주니어 개발자의 하루하루 공부한 내용을 기록합니다. 본문은 [블로그](https://binco.tistory.com)에 작성되어 있습니다. 
 * [취업 전 블로그](https://woongbin96.tistory.com/)
 
+## 🌏 Project
+> 실무 프로젝트, 토이 프로젝트, 오류 관련 TIL
+* [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
+* [개발 4개월 차 동접자 2만명 프로젝트 맡은 후기](https://binco.tistory.com/entry/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%86%8D%EC%9E%90-2%EB%A7%8C%EB%AA%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%BD%ED%97%98)
+
 ## ⚡ Language
 > 언어 TIL
 * [Object object 해결법 및 multer 사용법](https://binco.tistory.com/entry/Javascript-Object-object-%ED%95%B4%EA%B2%B0%EB%B2%95)
@@ -30,11 +35,6 @@
 * 그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코, 아제카츠 요헤이, 사토 타카히코 (2022년 6월 27일 완료)
 * 테스트 주도 개발 - 켄트백 (예정)
 * 클린 코드 - 로버트 C.마틴 (예정)
-
-## 🌏 Project
-> 실무 프로젝트, 토이 프로젝트, 오류 관련 TIL
-* [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
-* [개발 4개월 차 동접자 2만명 프로젝트 맡은 후기](https://binco.tistory.com/entry/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%86%8D%EC%9E%90-2%EB%A7%8C%EB%AA%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%BD%ED%97%98)
 
 ## 📘 Book Review
 > 한 해 동안 내 나이만큼 책 읽기
