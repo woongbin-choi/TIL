@@ -26,7 +26,7 @@
 * [Maven VS Gradle](https://binco.tistory.com/entry/Maven-VS-Gradle)
 * [Maven pom](https://binco.tistory.com/entry/Maven-pomxml-%EC%84%A4%EC%A0%95-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0)
 * [JPA의 정의와 장·단점](https://binco.tistory.com/entry/JPA%EC%A0%95%EC%9D%98-%EC%9E%A5%C2%B7%EB%8B%A8%EC%A0%90)
-* [JPA의 영속성 컨텍스트 정의 및 핵심요약 ](https://binco.tistory.com/entry/JPA-%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD)
+* [JPA의 영속성 컨텍스트 정의 및 핵심요약](https://binco.tistory.com/entry/JPA-%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
 
 ## 📚 Study
