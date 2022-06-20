@@ -36,6 +36,11 @@
 * 테스트 주도 개발 - 켄트백 (예정)
 * 클린 코드 - 로버트 C.마틴 (예정)
 
+<details>
+	<summary> [읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) - 2022/06/13 </summary>
+	zz
+</details> 
+
 ## 📘 Book Review
 > 한 해 동안 내 나이만큼 책 읽기
 * [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](https://binco.tistory.com/entry/%ED%96%A5%EB%A1%9C-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%99%80AWS%EB%A1%9C%ED%98%BC%EC%9E%90%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4)
