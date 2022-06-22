@@ -36,7 +36,9 @@
 	<summary> Picture </summary>
 	![스터디1](https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg)
 </details> -->
+<img src="https://user-images.githubusercontent.com/77534863/174919600-585f69f6-8d0e-4c8c-bc75-03d4f2eba66f.png" width="200" height="200"/>
 <img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="200" height="200"/>
+
 
 
 
