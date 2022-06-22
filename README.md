@@ -68,4 +68,5 @@
 * [TDD 프로그래밍](https://mangkyu.tistory.com/182)
 * [@Valid @Validated](https://mangkyu.tistory.com/174?category=761302)
 * [알고보면 재밌는 객체지향 프로그래밍](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/)
+* [AOP 정리](https://jojoldu.tistory.com/72)
 
