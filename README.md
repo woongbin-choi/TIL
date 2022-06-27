@@ -49,7 +49,7 @@
 
 * 배워서 바로 쓰는 스프링 프레임워크 - 애시시 사린, 제이 샤르마 (7월 25일 예정)
 <p>
-<img src="https://user-images.githubusercontent.com/77534863/176054411-989b54bf-5c04-4808-a34b-c04fe3920c06.png" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/77534863/176055419-f9d3b9c5-823b-417b-8662-9330eafc74b3.png" width="200" height="200"/>
 </p>
 
 
