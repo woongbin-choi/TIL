@@ -33,10 +33,6 @@
 ## 📚 Study
 > 사내 스터디 TIL
 * [읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) - 2022/06/13
-<!-- * <details>
-	<summary> Picture </summary>
-	![스터디1](https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg)
-</details> -->
 <p>
 <img src="https://user-images.githubusercontent.com/77534863/174919600-585f69f6-8d0e-4c8c-bc75-03d4f2eba66f.png" width="200" height="200"/>
 <img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="200" height="200"/>
@@ -44,8 +40,13 @@
 
 
 
+* [그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코, 아제카츠 요헤이, 사토 타카히코](https://binco.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0-%EC%B1%85-%EB%A6%AC%EB%B7%B0) - 2022/06/28
+<p>
+<img src="https://user-images.githubusercontent.com/77534863/174919600-585f69f6-8d0e-4c8c-bc75-03d4f2eba66f.png" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="200" height="200"/>
+</p>
 
-* 그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코, 아제카츠 요헤이, 사토 타카히코 (2022년 6월 27일 예정)
+
 * 배워서 바로 쓰는 스프링 프레임워크 - 애시시 사린, 제이 샤르마 (7월 예정)
 * 클린 코드 - 로버트 C.마틴 (8월 예정)
 * 테스트 주도 개발 - 켄트백 (예정)
