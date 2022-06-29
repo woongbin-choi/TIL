@@ -43,7 +43,7 @@
 * [그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코 등](https://binco.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0-%EC%B1%85-%EB%A6%AC%EB%B7%B0) - 2022/06/28
 <p>
 <img src="https://user-images.githubusercontent.com/77534863/176054411-989b54bf-5c04-4808-a34b-c04fe3920c06.png" width="200" height="200"/>
-<img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/77534863/176324279-6905511b-3812-435f-8477-a205c8c1af1c.png" width="200" height="200"/>
 </p>
 
 
