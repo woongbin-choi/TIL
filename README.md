@@ -47,12 +47,13 @@
 
 
 * 배워서 바로 쓰는 스프링 프레임워크 - 애시시 사린, 제이 샤르마 (8월 1일 / 9월 5일 예정)
-<p>
-<img src="https://user-images.githubusercontent.com/77534863/176055419-f9d3b9c5-823b-417b-8662-9330eafc74b3.png" width="200" height="200"/>
-</p>
 1차 발표 - 2022/08/01
 
 2차 발표 - 2022/09/05
+<p>
+<img src="https://user-images.githubusercontent.com/77534863/176055419-f9d3b9c5-823b-417b-8662-9330eafc74b3.png" width="200" height="200"/>
+</p>
+
 
 * 리눅스 입문자를 위한 명령어 사전 - 가와구치 히로시, 다야 후미히코 등 (10월 예정)
 * 클린 코드 - 로버트 C.마틴 (11월~12월 예정)
