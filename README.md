@@ -29,6 +29,9 @@
 * [JPA의 영속성 컨텍스트 정의 및 핵심요약](https://binco.tistory.com/entry/JPA-%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
 
+## 🍞빵 부스러기 모음
+* [Spring-Boot with JPA 게시판 만들기 Create](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84Create)
+
 ## 📚 Study
 > 사내 스터디 TIL
 * [읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) - 2022/06/13
