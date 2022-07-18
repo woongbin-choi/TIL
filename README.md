@@ -31,6 +31,7 @@
 
 ## 🍞빵 부스러기 모음
 * [Spring-Boot with JPA 게시판 만들기 Create](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84Create)
+* [Spring-Boot with JPA 게시판 만들기 Create-TDD](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84Create-TDD)
 
 ## 📚 Study
 > 사내 스터디 TIL
