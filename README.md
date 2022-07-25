@@ -37,6 +37,7 @@
 * [Spring-Boot with JPA 게시판 만들기 단건 조회 및 TDD](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84Read)
 * [Spring-Boot with JPA 게시판 만들기 다중 조회 및 페이징 처리 / TDD](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84%EB%8B%A4%EC%A4%91%EC%A1%B0%ED%9A%8CPagingTDD)
 * [Spring-Boot with JPA 게시판 만들기 Update-게시글 수정](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%88%98%EC%A0%95)
+* [Spring-Boot with JPA 게시판 만들기 Delete-게시글 삭제](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84Delete-TDD)
 
 ## 📚 Study
 > 사내 스터디 TIL
