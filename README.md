@@ -7,8 +7,8 @@
  
 ## ⏲ Memoirs
 > 회고
-*[개발자가 되기까지 - 2021년](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9DCEO%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933)<br>
-*[2022년 회고록](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9D-CEO-%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2022%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933)
+* [개발자가 되기까지 - 2021년](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9DCEO%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933)<br>
+* [2022년 회고록](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9D-CEO-%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2022%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933)
  
 ## 🌏 Project
 > 실무 프로젝트, 토이 프로젝트, 오류 관련 TIL
