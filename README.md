@@ -3,10 +3,12 @@
 ## 📣 Introduce
 [일식 CEO 출신](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9DCEO%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933) 주니어 개발자의 하루하루 공부한 내용을 기록합니다
 
-
-
-
  본문은 [블로그](https://binco.tistory.com)에 작성되어 있습니다.
+ 
+## ⏲ Memoirs
+[개발자가 되기까지 - 2021년](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9DCEO%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933)
+[2022년 회고록](https://binco.tistory.com/entry/%EC%9D%BC%EC%8B%9D-CEO-%EC%B6%9C%EC%8B%A0-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2022%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D?category=1019933)
+ 
 ## 🌏 Project
 > 실무 프로젝트, 토이 프로젝트, 오류 관련 TIL
 * [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
