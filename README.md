@@ -44,9 +44,6 @@
 
 * [Spring-Boot with JPA 쇼핑몰 만들기 ]()
 
-<br>
-* * *
-<br>
 [📝게시판] <br>
 
 * [Spring-Boot with JPA 게시판 만들기 Create](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84Create)
