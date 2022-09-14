@@ -44,7 +44,7 @@
 
 * [Spring-Boot with JPA 쇼핑몰 만들기 도메인 모델 및 테이블 설계](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EB%8F%84%EB%A9%94%EC%9D%B8%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84)
 * [Spring-Boot with JPA 쇼핑몰 만들기 엔티티 개발I](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%97%94%ED%8B%B0%ED%8B%B0%EA%B0%9C%EB%B0%9C%E2%85%A0)
-* [Spring-Boot with JPA 쇼핑몰 만들기 엔티티 개발II]()
+* [Spring-Boot with JPA 쇼핑몰 만들기 엔티티 개발II](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%97%94%ED%8B%B0%ED%8B%B0%EA%B0%9C%EB%B0%9C%E2%85%A1)
 * [Spring-Boot with JPA 쇼핑몰 만들기 회원 서비스]()
 * [Spring-Boot with JPA 쇼핑몰 만들기 상품 서비스]()
 * [Spring-Boot with JPA 쇼핑몰 만들기 주문 서비스]()
