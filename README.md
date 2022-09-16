@@ -46,8 +46,9 @@
 * [Spring-Boot with JPA 쇼핑몰 만들기 엔티티 개발I](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%97%94%ED%8B%B0%ED%8B%B0%EA%B0%9C%EB%B0%9C%E2%85%A0)
 * [Spring-Boot with JPA 쇼핑몰 만들기 엔티티 개발II](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%97%94%ED%8B%B0%ED%8B%B0%EA%B0%9C%EB%B0%9C%E2%85%A1)
 * [Spring-Boot with JPA 쇼핑몰 만들기 회원 서비스](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%ED%9A%8C%EC%9B%90%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C)
-* [Spring-Boot with JPA 쇼핑몰 만들기 상품 서비스]()
-* [Spring-Boot with JPA 쇼핑몰 만들기 주문 서비스]()
+* [Spring-Boot with JPA 쇼핑몰 만들기 상품 서비스](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%83%81%ED%92%88%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C)
+* [Spring-Boot with JPA 쇼핑몰 만들기 주문 서비스 I](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%A3%BC%EB%AC%B8%EC%84%9C%EB%B9%84%EC%8A%A4I)
+* [Spring-Boot with JPA 쇼핑몰 만들기 주문 서비스 II](https://binco.tistory.com/entry/SpringBoot-JPA-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%A3%BC%EB%AC%B8%EC%84%9C%EB%B9%84%EC%8A%A4II)
 * [Spring-Boot with JPA 쇼핑몰 만들기 주문 검색]()
 
 [📝게시판] <br>
