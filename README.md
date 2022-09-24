@@ -103,6 +103,8 @@
 ## 📘 Book Review
 > IT 관련 책 읽기
 * [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱](https://binco.tistory.com/entry/%ED%96%A5%EB%A1%9C-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%99%80AWS%EB%A1%9C%ED%98%BC%EC%9E%90%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4)
+* [자바 ORM 표준 JPA 프로그래밍 - 김영한]
+>> * [1장 JPA란?](https://binco.tistory.com/entry/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-JPA%EB%9E%80)
 
 ## 🎓 Certificate & Review
 > 자격증, 후기 모음
