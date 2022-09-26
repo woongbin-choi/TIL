@@ -121,4 +121,5 @@
 * [@Valid @Validated](https://mangkyu.tistory.com/174?category=761302)
 * [알고보면 재밌는 객체지향 프로그래밍](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/)
 * [AOP 정리](https://jojoldu.tistory.com/72)
+* [백준 문제 풀이 깃허브 자동 커밋](https://velog.io/@flaxinger/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
