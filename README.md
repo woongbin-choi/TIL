@@ -110,6 +110,7 @@
 > 자격증, 후기 모음
 * [컴활1급 필기 합격 공부법](https://binco.tistory.com/entry/%EC%BB%B4%ED%99%9C1%EA%B8%89%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EB%8B%A8%EA%B8%B0%EA%B0%84%EA%B3%B5%EB%B6%80%EB%B2%95-%ED%9B%84%EA%B8%B0)
 * [네트워크 관리사 2급 필기 합격 공부법](https://binco.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC-2%EA%B8%89%ED%95%84%EA%B8%B0-%EB%8B%A8%EA%B8%B0%EA%B0%843%EC%9D%BC-%ED%95%A9%EA%B2%A9%ED%9B%84%EA%B8%B0)
+* [네트워크 관리사 2급 실기 합격 공부법](https://binco.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC2%EA%B8%89-%EC%8B%A4%EA%B8%B0-%EB%8B%A8%EA%B8%B0%EA%B0%8435%EC%9D%BC-%ED%95%A9%EA%B2%A9%ED%9B%84%EA%B8%B0)
 * [SQLD 자격증 합격 공부법](https://binco.tistory.com/entry/SQLD-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
 * [국비지원 솔직 후기](https://binco.tistory.com/entry/JAVA-%EA%B5%AD%EB%B9%84%EC%A7%80%EC%9B%90-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0)
 * [비전공자 개발자 취업 후기](https://binco.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84-%EA%B5%AD%EB%B9%84%EC%A7%80%EC%9B%90)
