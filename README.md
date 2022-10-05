@@ -67,7 +67,10 @@
 | 읽기 좋은 코드가 좋은 코드다 | [자료](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) | 220604 | <img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="100" height="100"/> | <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcFA8uq%2FbtrFGPS4GKu%2Fjiwaj4QOF0GufofC9M5f01%2Fimg.png" width="100" height="100"/>
 | 그림으로 공부하는 IT 인프라 구조 | [자료](https://doosicee.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%A0%95%EB%A6%AC?category=1065345)  | 220706 | <img src="https://ifh.cc/g/R8J6XN.jpg" width="100" height="100"/> | <img src="https://blog.kakaocdn.net/dn/bCcUAH/btrFf3bvipV/mMJNgegZWuwVCv4oAW6B80/img.png" width="100" height="100"/> | <img src="https://blog.kakaocdn.net/dn/bCcUAH/btrFf3bvipV/mMJNgegZWuwVCv4oAW6B80/img.png" width="100" height="100"/>
 | 자바 ORM 표준 JPA 프로그래밍 | [JPA란?](https://binco.tistory.com/entry/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-JPA%EB%9E%80) | 220926 | <img src="https://user-images.githubusercontent.com/77534863/192191930-47989744-f9e1-49ad-ba6f-47d7fd047671.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/77534863/192174928-55b0a1df-1748-40ef-9a5e-660091f8006f.png" width="100" height="100"/> |
-|  | [AOP](https://binco.tistory.com/entry/AOPAspect-Oriented-Programming-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0?category=1016668) | 221005 | 사진  |  |
+|  | [AOP](https://binco.tistory.com/entry/AOPAspect-Oriented-Programming-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0?category=1016668) | 221005 | <img src="https://user-images.githubusercontent.com/77534863/193979461-e36285d3-e92e-41f4-a8af-eb376fbb0818.png" width="100" height="100"/>  |  |
+
+
+
 
 
 ## 📘 Book Review
