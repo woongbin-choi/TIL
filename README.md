@@ -62,7 +62,6 @@
 * [Spring-Boot with JPA 게시판 만들기 예외처리](https://binco.tistory.com/entry/SpringBoot-JPA-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 
 ## 📚 Study
-> 사내 스터디 TIL
 | 책이름                                       | 발표 자료                  | 발표일 | 리뷰사진                        | 책사진 |
 | ------------------------------------------- | ------------------------  | ------ | ----------------------------- | ------------------------ |
 | 읽기 좋은 코드가 좋은 코드다 | [자료](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) | 220604 | <img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="100" height="100"/> | <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcFA8uq%2FbtrFGPS4GKu%2Fjiwaj4QOF0GufofC9M5f01%2Fimg.png" width="100" height="100"/>
