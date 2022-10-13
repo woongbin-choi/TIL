@@ -37,6 +37,7 @@
 * [JPA의 영속성 컨텍스트 정의 및 핵심요약](https://binco.tistory.com/entry/JPA-%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD)
 * [JPA의 Fetch Type. Eager VS Lazy](https://binco.tistory.com/entry/JPA-EagerLoading-VS-LazyLoading)
 * [JPA의 영속성 관리. Dirty Checking](https://binco.tistory.com/entry/JPA-%EC%98%81%EC%86%8D%EC%84%B1%EA%B4%80%EB%A6%AC-DirtyCheckingMerge)
+* [Spring Data JPA](https://binco.tistory.com/entry/SpringDataJPA-%EA%B8%B0%EC%A1%B4JPA-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%82%AC%EC%9A%A9%EB%B2%95?category=1036292)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
 
 ## 🍞빵 부스러기 모음
