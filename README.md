@@ -26,8 +26,6 @@
 * [Java Enum Class](https://binco.tistory.com/entry/Java-Enum-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * [Java MVC 디자인 패턴](https://binco.tistory.com/entry/Java-MVC%ED%8C%A8%ED%84%B4-%EB%B0%94%EB%A1%9C%EC%95%8C%EA%B8%B0)
 
-## 📲 DataBase
-> DB TIL
 
 ## 📒 Library
 > 라이브러리 및 기타 TIL
