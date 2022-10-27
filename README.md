@@ -40,6 +40,7 @@
 * [Spring Data JPA - Query Method](https://binco.tistory.com/entry/Spring-Data-JPA-%EC%BF%BC%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C)
 * [Spring Data JPA - Paging](https://binco.tistory.com/entry/SpringData-PA-%ED%8E%98%EC%9D%B4%EC%A7%95)
 * [Spring Data JPA - Bulk Update & Entity Graph](https://binco.tistory.com/entry/SpringDataJPA-BulkUpdate-EntityGraph)
+* [QueryDSL 시리즈 시작](https://binco.tistory.com/entry/QueryDSL-%EC%A0%81%EC%9A%A9-%EC%98%88%EC%A0%9C%EC%8B%9C%EB%A6%AC%EC%A6%88)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
 
 ## 🍞빵 부스러기 모음
