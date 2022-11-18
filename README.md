@@ -46,6 +46,7 @@
 * [QueryDSL Join 사용 방법](https://binco.tistory.com/entry/QueryDSL-%EC%A1%B0%EC%9D%B8-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
 * [QueryDSL Projection](https://binco.tistory.com/entry/QueryDSL-Projection)
 * [QueryDSL 동적 쿼리 & Bulk 연산](https://binco.tistory.com/entry/QueryDSL-%EB%8F%99%EC%A0%81%EC%BF%BC%EB%A6%AC-Bulk%EC%97%B0%EC%82%B0)
+* [QueryDSL 실무 활용](https://binco.tistory.com/entry/QueryDSL-%EC%8B%A4%EB%AC%B4%ED%99%9C%EC%9A%A9)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
 
 
