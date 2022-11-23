@@ -16,6 +16,7 @@
 * [개발 4개월 차 동접자 2만명 프로젝트 맡은 후기](https://binco.tistory.com/entry/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%86%8D%EC%9E%90-2%EB%A7%8C%EB%AA%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%BD%ED%97%98)
 * [MCMS-YGPA(Media Content Management System) 프로젝트 후기](https://binco.tistory.com/entry/MCSM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 * [MCMS-YC 프로젝트 후기](https://binco.tistory.com/entry/MCMS-YC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+* [MCMS-YJCF 프로젝트 후기](https://binco.tistory.com/entry/MCMS-YJCF-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%9B%84%EA%B8%B0)
 
 ## ⚡ Language
 > 언어 TIL
