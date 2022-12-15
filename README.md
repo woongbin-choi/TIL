@@ -49,6 +49,7 @@
 * [QueryDSL 동적 쿼리 & Bulk 연산](https://binco.tistory.com/entry/QueryDSL-%EB%8F%99%EC%A0%81%EC%BF%BC%EB%A6%AC-Bulk%EC%97%B0%EC%82%B0)
 * [QueryDSL 실무 활용](https://binco.tistory.com/entry/QueryDSL-%EC%8B%A4%EB%AC%B4%ED%99%9C%EC%9A%A9)
 * [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
+* [재귀함수 & 스택프레임](https://binco.tistory.com/entry/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98-%EC%8A%A4%ED%83%9D%ED%94%84%EB%A0%88%EC%9E%84)
 
 
 
