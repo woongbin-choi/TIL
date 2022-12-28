@@ -57,6 +57,8 @@
 * [Fibonacci Array VS Recursive](https://binco.tistory.com/entry/Java-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98Fibonacci%EC%88%98%EC%97%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C%ED%92%80%EA%B8%B0)
 * [DFS와 BFS](https://binco.tistory.com/entry/Java-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DFS%EC%99%80BFS-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC)
 * [트리 최단 경로 구하기](https://binco.tistory.com/entry/DFSBFS%ED%99%9C%EC%9A%A9-Tree%EB%A7%90%EB%8B%A8%EB%85%B8%EB%93%9C%EA%B9%8C%EC%A7%80-%EA%B0%80%EC%9E%A5%EC%A7%A7%EC%9D%80%EA%B2%BD%EB%A1%9C%EA%B5%AC%ED%95%98%EA%B8%B0)
+* [DFS활용 부분집합](https://binco.tistory.com/entry/DFS%ED%99%9C%EC%9A%A9-%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9-%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C)
+
 
 
 ## 🍞빵 부스러기 모음
